@@ -3,5 +3,5 @@
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/hd_akamai_iosmob_avc_eng_indvsaus_odi02/master_1080p.m3u8
 #EXTINF:-1,Live Stream
 https://yuppftalive.akamaized.net/040622/starvijay/040622/starvijay_1500/chunks.m3u8
-#EXTINF:-1,Live Stream
-https://sunnxtv.co.in/sun/app/segment.php?load=d7cb19f063c1bd98c08e5d6634b75227e1682fbcf3d8efc4a2756b18f9e47af9396c23cafd9266e84302d0b3698cba1f7f04cee10f46002076b81b07f78e836dea0efd4e952892cc1a45b969accf3241dd45ba1aa0f26248c59e43f139e08f5c22f30d7efa72ed3b6236ece4fb85ce1fe78d1afcab20247dd7b10cbc1bf82e01e08658dcc097c198ded99ee396164a1ba68f395952a7f3b0761662f9dac81a611070c67bf41b208a71e7b778b9a5dc2ce0adc320cfb83985d1ff363704bf7b92597ee9bd3c71f2299b0f6c86990615d0f2a46285df70fdfe13af3352e2b156ba
+#EXTINF:-1,Sky Sports
+https://sports.sportsembed.xyz/live/streamfreecric.m3u8
